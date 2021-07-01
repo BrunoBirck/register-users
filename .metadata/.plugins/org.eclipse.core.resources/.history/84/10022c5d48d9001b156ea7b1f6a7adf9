@@ -1,0 +1,5 @@
+package com.brunobirck.usersapi.domain.exception;
+
+public class EntityNotFound {
+
+}

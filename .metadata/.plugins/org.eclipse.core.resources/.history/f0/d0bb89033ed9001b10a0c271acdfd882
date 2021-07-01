@@ -1,0 +1,5 @@
+package com.brunobirck.usersapi.domain.model;
+
+public class Photo {
+
+}

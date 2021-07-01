@@ -1,0 +1,5 @@
+package com.brunobirck.usersapi.api.model;
+
+public class UserMinimalDTO {
+
+}

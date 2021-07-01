@@ -1,0 +1,11 @@
+package com.brunobirck.usersapi.domain.service;
+
+import org.springframework.stereotype.Service;
+
+import com.brunobirck.usersapi.domain.repository.UserRepository;
+
+@Service
+public class UserService {
+
+	private UserRepository userRepository;
+}

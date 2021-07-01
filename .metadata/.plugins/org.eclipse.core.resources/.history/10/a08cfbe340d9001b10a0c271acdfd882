@@ -1,0 +1,6 @@
+spring.datasource.url=jdbc:postegresql://batyr.db.elephantsql.com:3306/jguqymmf
+spring.datasource.username=jguqymmf
+spring.datasource.password=MkgTEuM3acwkGTEHDJlwPI-VlPbZibex
+spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=create
