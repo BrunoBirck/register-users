@@ -192,7 +192,7 @@ const Page= () => {
                             <TableBody>
                                 {users.map((row) => (
                                 <TableRow className={classes.list} key={row.id}>
-                                    <TableCell align="center"><Avatar alt={row.name} src={row.photo} /></TableCell>
+                                    <TableCell align="center"><Avatar alt={row.name} src={row.name} /></TableCell>
                                     <TableCell align="center">{row.id}</TableCell>
                                     <TableCell align="center" component="th" scope="row">
                                     {row.name}
